@@ -1,0 +1,40 @@
+This widget allows you to perform some action on click. Flutter does not allow you to use the Button widget directly; instead, it uses a type of buttons like a FlatButton and a RaisedButton. We can use it as like below code snippets.
+1.	//FlatButton Example  
+2.	new FlatButton(  
+3.	  child: Text("Click here"),  
+4.	  onPressed: () {  
+5.	    // Do something here  
+6.	  },  
+7.	),  
+8.	  
+9.	//RaisedButton Example  
+10.	new RaisedButton(  
+11.	  child: Text("Click here"),  
+12.	  elevation: 5.0,  
+13.	  onPressed: () {  
+14.	    // Do something here  
+15.	  },  
+16.	),  
+In the above example, the onPressed property allows us to perform an action when you click the button, and elevation property is used to change how much it stands out.
+
+
+This widget allows you to perform some action on click. Flutter does not allow you to use the Button widget directly; instead, it uses a type of buttons like a FlatButton and a RaisedButton. We can use it as like below code snippets.
+1.	//FlatButton Example  
+2.	new FlatButton(  
+3.	  child: Text("Click here"),  
+4.	  onPressed: () {  
+5.	    // Do something here  
+6.	  },  
+7.	),  
+8.	  
+9.	//RaisedButton Example  
+10.	new RaisedButton(  
+11.	  child: Text("Click here"),  
+12.	  elevation: 5.0,  
+13.	  onPressed: () {  
+14.	    // Do something here  
+15.	  },  
+16.	),  
+In the above example, the onPressed property allows us to perform an action when you click the button, and elevation property is used to change how much it stands out.
+
+
